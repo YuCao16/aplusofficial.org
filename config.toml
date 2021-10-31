@@ -1,5 +1,6 @@
-# Site settings
-baseURL = "https://aplusofficial.org/"
+# Site settings `https://example.com/`.
+baseurl = "https://aplusofficial.org/"
+
 languageCode = "en-us"
 title = "APlus"
 theme = "forty"
